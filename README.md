@@ -1,5 +1,5 @@
 # Sorteo de Amigos Secretos
-aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"
+Aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"
 
 <h2>Descripción</h2>
 La aplicación permite que un grupo de amigos realice un sorteo de amigos secretos. Los participantes pueden ser agregados a una lista, luego se realiza el sorteo de forma aleatoria, y se muestra el nombre del amigo sorteado para cada participante.
